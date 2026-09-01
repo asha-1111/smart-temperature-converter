@@ -12,7 +12,7 @@ Set<String> usedConversions = {};
 
 while (again == "y") {
 print("====================================");
-print("       SMART TEMPERATURE CONVERTER");
+print("SMART TEMPERATURE CONVERTER");
 print("====================================");
 
 print("1. Celsius to Fahrenheit");
@@ -188,7 +188,7 @@ again = "n";
 }
 
 print("====================================");
-print("          Thank You!");
+print("       Thank You!");
 print("       Program Ended");
 print("====================================");
 
